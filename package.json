@@ -54,11 +54,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS",
-      "pre-commit": "lint-staged"
-    }
-  }
+  ]
 }
