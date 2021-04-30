@@ -73,28 +73,16 @@ const TutorialHeader = () => {
                   </HeaderMenu>
                 </HeaderSideNavItems>
                 <SideNavMenu renderIcon={Account20} title="Account">
-                  <SideNavMenuItem href="javascript:void(0)">
-                    Link
-                  </SideNavMenuItem>
-                  <SideNavMenuItem href="javascript:void(0)">
-                    Link
-                  </SideNavMenuItem>
-                  <SideNavMenuItem href="javascript:void(0)">
-                    Link
-                  </SideNavMenuItem>
+                  <SideNavMenuItem href="#">Link</SideNavMenuItem>
+                  <SideNavMenuItem href="#">Link</SideNavMenuItem>
+                  <SideNavMenuItem href="#">Link</SideNavMenuItem>
                 </SideNavMenu>
                 <SideNavMenu renderIcon={Activity20} title="Activity">
-                  <SideNavMenuItem href="javascript:void(0)">
-                    Link
-                  </SideNavMenuItem>
-                  <SideNavMenuItem href="javascript:void(0)">
-                    Link
-                  </SideNavMenuItem>
-                  <SideNavMenuItem href="javascript:void(0)">
-                    Link
-                  </SideNavMenuItem>
+                  <SideNavMenuItem href="#">Link</SideNavMenuItem>
+                  <SideNavMenuItem href="#">Link</SideNavMenuItem>
+                  <SideNavMenuItem href="#">Link</SideNavMenuItem>
                 </SideNavMenu>
-                <SideNavLink renderIcon={ChartBar20} href="javascript:void(0)">
+                <SideNavLink renderIcon={ChartBar20} href="#">
                   Charts
                 </SideNavLink>
               </SideNavItems>
